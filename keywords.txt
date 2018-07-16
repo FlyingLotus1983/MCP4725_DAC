@@ -6,14 +6,14 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-MCP4725_DAC	 KEYWORD1
-mcp4725_dac	 KEYWORD1
+MCP4725_DAC	KEYWORD1
+mcp4725_dac	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-setDacValue	 KEYWORD2
+setDacValue	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
